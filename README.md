@@ -252,15 +252,10 @@ Important: Before you choose which resources you wish to go more in detail, I su
 **List of newsletters**
 
 [EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/) by Zach Wilson
-
 [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) by SeattleDataGuy
-
 [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) by Avi Chawla
-
 [Data Engineering Central](https://dataengineeringcentral.substack.com/) by Daniel Beach
-
 [Data Engineering Weekly](https://www.dataengineeringweekly.com/) by Ananth Packkildurai
-
 [Joe Reis](https://joereis.substack.com/) by Joe Reis
 
 **People to follow on LinkedIn**
