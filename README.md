@@ -154,6 +154,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - Code Complete by Steve McConnell
 - The Staff Engineer's Path by Tanya Reilly
 - Cracking the Coding Interview by Gayle Laakmann McDowell
+- Clean Code Cookbook: Recipes to Improve the Design and Quality of your Code by Maximiliano Contieri
 
 **List of newsletters**
 
@@ -175,6 +176,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [The Polymathic Engineer](https://newsletter.francofernando.com/) by Franco Fernando
 - [ByteSizedBets](https://bytesizedbets.com/) by Ankur Tyagi
 - [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
+- [Maximiliano Contieri - Software Design](https://maximilianocontieri.com/newsletter) by Maximiliano Contieri
 
 **People to follow on LinkedIn**
 
@@ -201,6 +203,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 - [Zubin Pratap](https://www.linkedin.com/in/zubinpratap/)
 - [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
+- [Maximiliano Contieri](https://www.linkedin.com/in/mcsee/)
 
 ## Become product-minded and business-oriented
 
