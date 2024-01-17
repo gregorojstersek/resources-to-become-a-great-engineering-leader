@@ -174,6 +174,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [The T-Shaped Dev](https://thetshaped.dev/) by Petar Ivanov
 - [The Polymathic Engineer](https://newsletter.francofernando.com/) by Franco Fernando
 - [ByteSizedBets](https://bytesizedbets.com/) by Ankur Tyagi
+- [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
 
 **People to follow on LinkedIn**
 
