@@ -109,6 +109,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [The Software Engineering Times](https://thesoftwareengineeringtimes.substack.com/) by Ryan Murphy
 - [The Visionary CTO](https://blog.visionarycto.com/) by Matt Watson
 - [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
+- [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
 
 **People to follow on LinkedIn**
 
@@ -136,6 +137,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Luca Sartoni](https://www.linkedin.com/in/lucasartoni/)
 - [Doug Howard, P.E.](https://www.linkedin.com/in/doughowardcoaching/)
 - [Anco van der Wurff](https://www.linkedin.com/in/ancowurff/)
+- [Sergio Visinoni](https://www.linkedin.com/in/piffio/)
 
 ## Become a better Software Engineer
 
