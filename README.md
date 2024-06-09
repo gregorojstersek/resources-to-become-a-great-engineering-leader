@@ -27,6 +27,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Fundamentals of Software Architecture by Neal Ford and Mark Richards
 - Software Architecture: The Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani
+- Learn System Design in a Hurry, (Helping FAANG+ Software Engineering candidates land their dream job) by Evan King  
 
 **List of blogs**
 
@@ -56,6 +57,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Asana](https://blog.asana.com/category/eng/)
 - [DigitalOcean](https://www.digitalocean.com/blog/tag/engineering)
 - [CloudFlare](https://blog.cloudflare.com/)
+- [HelloInterview](https://www.hellointerview.com/learn/system-design)
 
 **List of newsletters**
 
@@ -71,6 +73,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
 - [Raul Junco](https://www.linkedin.com/in/raul-junco/)
 - [Saurabh Dashora](https://www.linkedin.com/in/saurabh-dashora/)
+- [Evan King](https://www.linkedin.com/in/evan-king-40072280/)
 
 ## Become a better Leader / Manager
 
