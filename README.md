@@ -266,6 +266,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Data Engineering Central](https://dataengineeringcentral.substack.com/) by Daniel Beach
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/) by Ananth Packkildurai
 - [Joe Reis](https://joereis.substack.com/) by Joe Reis
+- [Air Around AI](https://airaroundai.substack.com/) by Pradeep Kumar
 
 **People to follow on LinkedIn**
 
@@ -275,5 +276,6 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Daniel Beach](https://www.linkedin.com/in/daniel-beach-6ab8b4132/)
 - [Ananth P](https://www.linkedin.com/in/ananthdurai/)
 - [Joe Reis](https://www.linkedin.com/in/josephreis/)
+- [Pradeep Kumar](https://www.linkedin.com/in/prady00/)
 
 Any resources you liked and believe would be a great addition to this list? Feel free to open a PR! I am always in the lookout for some more great books / newsletters / people to follow.
