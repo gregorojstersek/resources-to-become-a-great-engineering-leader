@@ -214,6 +214,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of books**
 
+- Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell
 - Inspired: How to Create Products Customers Love by Marty Cagan
 - Empowered by Marty Cagan
 - Loved: How to Rethink Marketing for Tech Products by Martina Lauchengco
