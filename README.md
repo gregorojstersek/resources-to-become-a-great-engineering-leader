@@ -113,6 +113,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [The Visionary CTO](https://blog.visionarycto.com/) by Matt Watson
 - [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
 - [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
+- [Programming Leadership - Marcus Blankenship](https://marcusblankenship.substack.com/) by Marcus Blankenship
 
 **People to follow on LinkedIn**
 
