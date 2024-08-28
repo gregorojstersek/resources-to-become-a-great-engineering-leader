@@ -65,6 +65,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Byte-Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
 - [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
 - [System Design Codex](https://newsletter.systemdesigncodex.com/) by Saurabh Dashora
+- [Hacking Scale](https://newsletter.betterstack.com/) by Richard Oliver Bray
 
 **People to follow on LinkedIn**
 
