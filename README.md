@@ -184,6 +184,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [ByteSizedBets](https://bytesizedbets.com/) by Ankur Tyagi
 - [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
 - [Maximiliano Contieri - Software Design](https://maximilianocontieri.com/newsletter) by Maximiliano Contieri
+- [Path to Staff](https://pathtostaff.substack.com/) by Sidwyn Koh
 
 **People to follow on LinkedIn**
 
@@ -211,6 +212,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Zubin Pratap](https://www.linkedin.com/in/zubinpratap/)
 - [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
 - [Maximiliano Contieri](https://www.linkedin.com/in/mcsee/)
+- [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/)
 
 ## Become product-minded and business-oriented
 
@@ -242,7 +244,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 - [Pawel Huryn](https://www.linkedin.com/in/pawel-huryn/)
 - [Aakash Gupta](https://www.linkedin.com/in/aagupta/)
-- [Wes kao](https://www.linkedin.com/in/weskao/)
+- [Wes Kao](https://www.linkedin.com/in/weskao/)
 - [Amy Mitchell](https://www.linkedin.com/in/amycmitchell/)
 - [Leah Tharin](https://www.linkedin.com/in/leahtharin/)
 - [Elena Verna](https://www.linkedin.com/in/elenaverna/)
