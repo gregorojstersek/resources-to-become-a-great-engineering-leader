@@ -2,7 +2,7 @@
 
 **List of books, newsletters, people and more!**
 
-Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2024! 
+Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2025! 
 
 Topics span from software engineering, system design, data engineering, leadership, management and all the way to product and business.
 
