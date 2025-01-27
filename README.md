@@ -115,6 +115,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
 - [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
 - [Programming Leadership - Marcus Blankenship](https://marcusblankenship.substack.com/) by Marcus Blankenship
+- [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
 
 **People to follow on LinkedIn**
 
@@ -143,6 +144,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Doug Howard, P.E.](https://www.linkedin.com/in/doughowardcoaching/)
 - [Anco van der Wurff](https://www.linkedin.com/in/ancowurff/)
 - [Sergio Visinoni](https://www.linkedin.com/in/piffio/)
+- [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
 
 ## Become a better Software Engineer
 
@@ -239,6 +241,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Untrapping Product Teams](https://dpereira.substack.com/) by David Pereira
 - [The Looking Glass](https://lg.substack.com/) by Julie Zhuo
 - [The Beautiful Mess](https://cutlefish.substack.com/) by John Cutler
+- [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
 
 **People to follow on LinkedIn**
 
@@ -252,6 +255,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Julie Zhuo](https://www.linkedin.com/in/julie-zhuo/)
 - [Peter Yang](https://www.linkedin.com/in/petergyang/)
 - [John Cutler](https://www.linkedin.com/in/johnpcutler/)
+- [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
 
 ## Get better at Data Engineering / Data Science
 
