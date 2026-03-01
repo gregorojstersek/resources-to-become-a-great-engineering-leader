@@ -195,6 +195,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Become an Engineering Leader Everyone Wants to Work With](https://newsletter.eng-leadership.com/p/become-an-engineering-leader-everyone)
 - [Your Engineering Team Should Be Looking to Solve Customer Problems](https://newsletter.eng-leadership.com/p/your-engineering-team-should-be-looking)
 - [How to Ace Engineering Manager Interviews](https://newsletter.eng-leadership.com/p/how-to-ace-engineering-manager-interviews)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers
 - [The State of Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/the-state-of-engineering-leadership)
 - [First Time in a Leading Position? This Is What to Do](https://newsletter.eng-leadership.com/p/first-time-in-a-leading-position)
 - [15 Productivity Hacks Every Engineer & Manager Should Know](https://newsletter.eng-leadership.com/p/15-productivity-hacks-every-engineer)
