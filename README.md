@@ -143,6 +143,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
 - [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
 - [Programming Leadership - Marcus Blankenship](https://marcusblankenship.substack.com/) by Marcus Blankenship
+- [Blog for Engineering Managers](https://blog4ems.com) by Stephane Moreau
 - [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
 
 **People to follow on LinkedIn**
