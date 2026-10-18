@@ -98,6 +98,7 @@ This will ensure you are spending your time on the most impactful things first!
 
 **List of books**
 
+- The Multiplier Mindset by Gregor Ojstersek
 - The Making of a Manager by Julie Zhuo
 - The First 90 Days by Michael D. Watkins
 - The Lean Manager by Andrew and Muhammad Wilkerson
@@ -241,6 +242,7 @@ This will ensure you are spending your time on the most impactful things first!
 
 **List of books**
 
+- The Multiplier Mindset by Gregor Ojstersek
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - Refactoring by Martin Fowler and Kent Beck 
 - Why Programs Fail by Andreas Zeller
