@@ -119,6 +119,7 @@ This will ensure you are spending your time on the most impactful things first!
 - Leading Snowflakes by Oren Ellenbogen
 - Leading Effective Engineering Teams by Addy Osmani
 - Become an Effective Software Engineering Manager by James Stanier
+- [Crafting Conflict Volume 1: Managing Saboteur Patterns in High-Performing Teams](https://leanpub.com/craftingconflictv1) by Paul LaPosta
 
 **List of newsletters**
 
